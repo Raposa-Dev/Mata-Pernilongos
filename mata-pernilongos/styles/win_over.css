@@ -1,0 +1,25 @@
+.tela {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: rgb(5, 5, 5) solid 5px;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    background-color: rgb(83, 13, 148);
+}
+
+h1 {
+    color: rgb(228, 22, 22);
+    font-size: 5em;
+}
+
+.btn {
+    width: 10em;
+    height: 3em;
+    border-radius: 1em;
+    background-color: rgb(52, 187, 70);
+    color: whitesmoke;
+    margin: 10em auto;
+}

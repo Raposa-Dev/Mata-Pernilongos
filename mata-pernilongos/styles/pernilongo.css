@@ -1,0 +1,42 @@
+
+.tela {
+    border: rgb(5, 5, 5) solid 5px;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    background: url('../images/bg.png')no-repeat center center/cover;
+}
+
+
+.heart {
+    width: 1.3em;
+}
+
+.painel {
+    height: 5vw;
+    width: 10vw;
+}
+
+.painel, .vidas, .tempo, img#heart, span {
+    background-color: whitesmoke;
+}
+
+.pernilongo1{
+    width: 2em;
+} 
+
+.pernilongo2{
+    width: 3em;
+} 
+
+.pernilongo3 {
+    width: 2.5em;
+}
+
+.LadoUm{
+    transform: scaleX(1);
+}
+
+.LadoDois{
+    transform: scaleX(-1);
+}
