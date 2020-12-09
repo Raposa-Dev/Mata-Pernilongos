@@ -1,0 +1,34 @@
+.tela {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(65, 10, 110);
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.selects {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50vw;
+    height: 50vh;
+}
+
+.selects select {
+    width: 30vw;
+    height: 4vh;
+}
+
+.selects button {
+    width: 20vw;
+    height: 5vh;
+    background-color: rgb(73, 170, 34);
+    border-radius: 1em;
+}
