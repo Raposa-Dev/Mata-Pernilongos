@@ -22,8 +22,8 @@ if(level === 'facil'){
 
 function risizeTela(){
 
-    altura = window.innerHeight
-    largura = window.innerWidth
+    altura = window.innerHeight - 100
+    largura = window.innerWidth - 100
 
 }
 
@@ -64,9 +64,9 @@ function positionRandomize() {
 
     //--
 
-    let positionX = Math.floor(Math.random() * largura) - 99
+    let positionX = Math.floor(Math.random() * largura)
 
-    let positionY = Math.floor(Math.random() * altura) - 99
+    let positionY = Math.floor(Math.random() * altura)
 
     positionX = positionX < 0 ? 0 : positionX
     positionY = positionY < 0 ? 0 : positionY
