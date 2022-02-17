@@ -1,7 +1,5 @@
 # README
 
-![—Pngtree—light effect fox game icon_6552396.png](README%20e5f06/Pngtreelight_effect_fox_game_icon_6552396.png)
-
 ---
 
 Este projeto foi feito em um curso da Udemy com o objetivo de melhor entendimento do DOM(Document Object Model);
